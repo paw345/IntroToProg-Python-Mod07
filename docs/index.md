@@ -26,7 +26,7 @@ _Figure 3_
 ![Figure 4](fig4.png "Screenshot of the Script Running in PyCharm ")  
 _Figure 4_
   
-![Figure 5](fig5.png "Screenshot of script output file (a list of Dictionary items)")
+![Figure 5](fig5.png "Screenshot of script output file (a list of Dictionary items)")  
 _Figure 5_
   
 #Summary  
