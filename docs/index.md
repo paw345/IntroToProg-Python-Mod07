@@ -1,4 +1,4 @@
-#Introduction  
+# Introduction  
 The program Assignment07.py collects a list of movie names and ratings from the user, displays them back to the user, and stores them in binary file movie_ratings.dat.  The user can also read a pre-existing binary file (made from Assignment07.py) and add to it.  
   
 #The Script  
@@ -17,7 +17,7 @@ In both cases, a custom error message is displayed and the user is returned to t
 ![Figure 2](fig2.png "Presentation & Main Section of Code")  
 _Figure 2_
   
-#Running the Code and the Output File  
+# Running the Code and the Output File  
 The script operates as intended in both PyCharm and console mode.  Screenshots of the code running in console mode, running in Pycharm, and the output binary file movie_ratings.dat are presented in Figure 4, Figure 5, and Figure 6.  
     
 ![Figure 3](fig3.png "Screenshot of the Script Running in Console Mode")  
@@ -29,7 +29,7 @@ _Figure 4_
 ![Figure 5](fig5.png "Screenshot of script output file (a list of Dictionary items)")  
 _Figure 5_
   
-#Summary  
+# Summary  
 The focus of this assignment was pickling and error handling.  The Assignment07.py program utilizes both of these Python functionalities while:   
 •	capturing a list of the user’s movie ratings  
 •	storing that list in a binary file (movie_ratings.dat)  
