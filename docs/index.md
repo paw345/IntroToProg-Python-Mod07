@@ -15,19 +15,19 @@ b) enters a non-numeric value for a movie rating
 In both cases, a custom error message is displayed and the user is returned to the main menu. See Figure 2 for a screenshot of the Presentation & Main section.  
   
 ![Figure 2](fig2.png "Presentation & Main Section of Code")  
-Figure 2
+_Figure 2_
   
 ##Running the Code and the Output File  
 The script operates as intended in both PyCharm and console mode.  Screenshots of the code running in console mode, running in Pycharm, and the output binary file movie_ratings.dat are presented in Figure 4, Figure 5, and Figure 6.  
     
 ![Figure 3](fig3.png "Screenshot of the Script Running in Console Mode")  
-Figure 3
+_Figure 3_
   
 ![Figure 4](fig4.png "Screenshot of the Script Running in PyCharm ")  
-Figure 4
+_Figure 4_
   
 ![Figure 5](fig5.png "Screenshot of script output file (a list of Dictionary items)")
-Figure 5
+_Figure 5_
   
 ##Summary  
 The focus of this assignment was pickling and error handling.  The Assignment07.py program utilizes both of these Python functionalities while:   
