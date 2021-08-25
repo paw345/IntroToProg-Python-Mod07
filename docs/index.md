@@ -6,7 +6,7 @@ At the top of the script there is a header and pseudo code to orient any future 
 In the Data and Processing sections, simple functions are defined to save data, read data, and pause the program.  The Pickle program is used to both dump (i.e. save) and load (i.e. read) data to/from the movie_ratings.dat binary file.  See Figure 1 for details.  
   
 ![Figure 1](fig1.png "Data and Processing Sections of Code")  
-* *Figure 1* *
+Figure 1* *
   
 The Presentation & Main section contains code supporting user interactions and the main logic of the program.  The main logic operates through a while(True) loop that holds nested if elif statements.  All movie and rating data is added to list of dictionaries where “Movie” and “Rating” are used as keys.  
 The Presentation & Main section also contains two try except-as chunks of code that catch errors when the user: 
