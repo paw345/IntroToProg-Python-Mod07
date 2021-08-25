@@ -16,7 +16,7 @@ The script operates as intended in both PyCharm and console mode.  Screenshots o
 (Add Fig4)  
 (Add Fig5)  
 ##Summary  
-The focus of this assignment was pickling and error handling.  The Assignment07.py program utilizes both of these Python functionalities while: 
-•	capturing a list of the user’s movie ratings
-•	storing that list in a binary file (movie_ratings.dat)
-•	presenting sensible error messages in response to likely input errors
+The focus of this assignment was pickling and error handling.  The Assignment07.py program utilizes both of these Python functionalities while:   
+•	capturing a list of the user’s movie ratings  
+•	storing that list in a binary file (movie_ratings.dat)  
+•	presenting sensible error messages in response to likely input errors  
